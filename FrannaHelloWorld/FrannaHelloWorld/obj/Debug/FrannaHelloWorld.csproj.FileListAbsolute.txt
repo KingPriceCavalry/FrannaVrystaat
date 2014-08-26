@@ -4,3 +4,9 @@ c:\users\francois.rademan\documents\visual studio 2013\Projects\FrannaHelloWorld
 c:\users\francois.rademan\documents\visual studio 2013\Projects\FrannaHelloWorld\FrannaHelloWorld\obj\Debug\FrannaHelloWorld.csprojResolveAssemblyReference.cache
 c:\users\francois.rademan\documents\visual studio 2013\Projects\FrannaHelloWorld\FrannaHelloWorld\obj\Debug\FrannaHelloWorld.exe
 c:\users\francois.rademan\documents\visual studio 2013\Projects\FrannaHelloWorld\FrannaHelloWorld\obj\Debug\FrannaHelloWorld.pdb
+C:\Users\francois.rademan\Documents\GitHub\FrannaVrystaat\FrannaHelloWorld\FrannaHelloWorld\bin\Debug\FrannaHelloWorld.exe.config
+C:\Users\francois.rademan\Documents\GitHub\FrannaVrystaat\FrannaHelloWorld\FrannaHelloWorld\obj\Debug\FrannaHelloWorld.exe
+C:\Users\francois.rademan\Documents\GitHub\FrannaVrystaat\FrannaHelloWorld\FrannaHelloWorld\obj\Debug\FrannaHelloWorld.pdb
+C:\Users\francois.rademan\Documents\GitHub\FrannaVrystaat\FrannaHelloWorld\FrannaHelloWorld\bin\Debug\FrannaHelloWorld.exe
+C:\Users\francois.rademan\Documents\GitHub\FrannaVrystaat\FrannaHelloWorld\FrannaHelloWorld\bin\Debug\FrannaHelloWorld.pdb
+C:\Users\francois.rademan\Documents\GitHub\FrannaVrystaat\FrannaHelloWorld\FrannaHelloWorld\obj\Debug\FrannaHelloWorld.csprojResolveAssemblyReference.cache

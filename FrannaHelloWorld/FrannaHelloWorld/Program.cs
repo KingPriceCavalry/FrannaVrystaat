@@ -12,6 +12,7 @@ namespace FrannaHelloWorld
         {
             Console.WriteLine("Franna Hello World !");
             Console.ReadLine();
+            Console.WriteLine("Franna Hello World ! TEST! NEW UPDATE !");
         }
     }
 }
