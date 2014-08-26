@@ -1,0 +1,6 @@
+c:\users\francois.rademan\documents\visual studio 2013\Projects\FrannaHelloWorld\FrannaHelloWorld\bin\Debug\FrannaHelloWorld.exe.config
+c:\users\francois.rademan\documents\visual studio 2013\Projects\FrannaHelloWorld\FrannaHelloWorld\bin\Debug\FrannaHelloWorld.exe
+c:\users\francois.rademan\documents\visual studio 2013\Projects\FrannaHelloWorld\FrannaHelloWorld\bin\Debug\FrannaHelloWorld.pdb
+c:\users\francois.rademan\documents\visual studio 2013\Projects\FrannaHelloWorld\FrannaHelloWorld\obj\Debug\FrannaHelloWorld.csprojResolveAssemblyReference.cache
+c:\users\francois.rademan\documents\visual studio 2013\Projects\FrannaHelloWorld\FrannaHelloWorld\obj\Debug\FrannaHelloWorld.exe
+c:\users\francois.rademan\documents\visual studio 2013\Projects\FrannaHelloWorld\FrannaHelloWorld\obj\Debug\FrannaHelloWorld.pdb
